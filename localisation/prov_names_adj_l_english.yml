@@ -1,103 +1,103 @@
 ﻿l_english:
- PROV_ADJ1:0 "Stockholmer"
- PROV_ADJ2:0 "Östergöter"
- PROV_ADJ3:0 "Smålander"
- PROV_ADJ4:0 "Bergslags"
- PROV_ADJ5:0 "Värmlander"
- PROV_ADJ6:0 "Scanian"
- PROV_ADJ7:0 "West Geatish"
- PROV_ADJ8:0 "Dalaskoger"
- PROV_ADJ9:0 "Hälsinglander"
- PROV_ADJ10:0 "Jämtlander"
- PROV_ADJ11:0 "Västerbottnian"
- PROV_ADJ12:0 "Sjællander"
- PROV_ADJ13:0 "Jyllander"
- PROV_ADJ14:0 "Fynian"
- PROV_ADJ15:0 "Midtjyllander"
- PROV_ADJ16:0 "Bohusländer"
- PROV_ADJ17:0 "Akerian"
- PROV_ADJ18:0 "Lapplander"
- PROV_ADJ19:0 "Österbottian"
- PROV_ADJ20:0 "Trøndelagian"
- PROV_ADJ21:0 "Hålogalander"
- PROV_ADJ22:0 "Eidsivan"
- PROV_ADJ23:0 "Bergenian"
- PROV_ADJ24:0 "Agderian"
- PROV_ADJ25:0 "Gotlander"
- PROV_ADJ26:0 "Hallander"
- PROV_ADJ27:0 "Åboer"
- PROV_ADJ28:0 "Nylander"
- PROV_ADJ29:0 "Tavastlander"
- PROV_ADJ30:0 "Viborgian"
- PROV_ADJ31:0 "Savolaxian"
- PROV_ADJ32:0 "Kexholmian"
- PROV_ADJ33:0 "Nevan"
- PROV_ADJ34:0 "Ingermanlander"
- PROV_ADJ35:0 "Öselian"
- PROV_ADJ36:0 "Revalian"
- PROV_ADJ37:0 "Livlander"
- PROV_ADJ38:0 "Rigan"
- PROV_ADJ39:0 "Kurlander"
- PROV_ADJ40:0 "Memelian"
- PROV_ADJ41:0 "Königsberger"
- PROV_ADJ42:0 "Warmian"
- PROV_ADJ43:0 "Danziger"
- PROV_ADJ44:0 "Hamburger"
- PROV_ADJ45:0 "Lübecker"
- PROV_ADJ46:0 "Rostocker"
- PROV_ADJ47:0 "Stralsunder"
- PROV_ADJ48:0 "Kolberger"
- PROV_ADJ49:0 "Neumarker"
- PROV_ADJ50:0 "Berliner"
- PROV_ADJ51:0 "Ruppiner"
- PROV_ADJ52:0 "Magdeburger"
- PROV_ADJ53:0 "Lüneburgian"
- PROV_ADJ54:0 "Stader"
- PROV_ADJ55:0 "Oldenburgian"
- PROV_ADJ56:0 "Osnabrückian"
- PROV_ADJ57:0 "Brunswicker"
- PROV_ADJ58:0 "Anhaltian"
- PROV_ADJ59:0 "Wittenberger"
- PROV_ADJ60:0 "Bautzener"
- PROV_ADJ61:0 "Dresdner"
- PROV_ADJ62:0 "Leipziger"
- PROV_ADJ63:1 "Erfurter"
- PROV_ADJ64:0 "Landshuter"
- PROV_ADJ65:0 "Münchner"
- PROV_ADJ66:0 "Bambergian"
- PROV_ADJ67:0 "Nürnberger"
- PROV_ADJ68:0 "Memminger"
- PROV_ADJ69:0 "Dortmunder"
- PROV_ADJ70:0 "Württembergian"
- PROV_ADJ71:0 "Ansbachian"
- PROV_ADJ72:0 "Breisgauer"
- PROV_ADJ73:0 "Tirolian"
- PROV_ADJ74:0 "Badenian"
- PROV_ADJ75:1 "Strassburger"
- PROV_ADJ76:0 "Salzburgian"
- PROV_ADJ77:0 "Heidelberger"
- PROV_ADJ78:0 "Mainzian"
- PROV_ADJ79:0 "Würzburgian"
- PROV_ADJ80:0 "Trierian"
- PROV_ADJ81:0 "Hessian"
- PROV_ADJ82:1 "Westphalian"
- PROV_ADJ83:0 "Nassuvian"
- PROV_ADJ84:0 "Bergian"
- PROV_ADJ85:0 "Kölnian"
- PROV_ADJ86:0 "Münsterian"
- PROV_ADJ87:0 "Calaisien"
- PROV_ADJ88:0 "Artesian"
- PROV_ADJ89:0 "Picard"
- PROV_ADJ90:0 "Flemish"
- PROV_ADJ91:0 "Hainautian"
- PROV_ADJ92:0 "Brabantian"
- PROV_ADJ93:0 "Liègian"
- PROV_ADJ94:0 "Luxemburgian"
- PROV_ADJ95:0 "Bredian"
- PROV_ADJ96:0 "Zeelander"
- PROV_ADJ97:1 "Amsterdamer"
- PROV_ADJ98:0 "Utrechter"
- PROV_ADJ99:0 "Gelrian"
+ PROV_ADJ1:0 
+ PROV_ADJ2:0 
+ PROV_ADJ3:0 
+ PROV_ADJ4:0 
+ PROV_ADJ5:0 
+ PROV_ADJ6:0 
+ PROV_ADJ7:0 
+ PROV_ADJ8:0 
+ PROV_ADJ9:0 
+ PROV_ADJ10:0 
+ PROV_ADJ11:0 
+ PROV_ADJ12:0 
+ PROV_ADJ13:0 
+ PROV_ADJ14:0 
+ PROV_ADJ15:0 
+ PROV_ADJ16:0 
+ PROV_ADJ17:0 
+ PROV_ADJ18:0 
+ PROV_ADJ19:0 
+ PROV_ADJ20:0 
+ PROV_ADJ21:0 
+ PROV_ADJ22:0 
+ PROV_ADJ23:0 
+ PROV_ADJ24:0 
+ PROV_ADJ25:0 
+ PROV_ADJ26:0 
+ PROV_ADJ27:0 
+ PROV_ADJ28:0
+ PROV_ADJ29:0 
+ PROV_ADJ30:0 
+ PROV_ADJ31:0 
+ PROV_ADJ32:0 
+ PROV_ADJ33:0 
+ PROV_ADJ34:0 
+ PROV_ADJ35:0 
+ PROV_ADJ36:0 
+ PROV_ADJ37:0 
+ PROV_ADJ38:0 
+ PROV_ADJ39:0 
+ PROV_ADJ40:0 
+ PROV_ADJ41:0 
+ PROV_ADJ42:0 
+ PROV_ADJ43:0 
+ PROV_ADJ44:0 
+ PROV_ADJ45:0 
+ PROV_ADJ46:0 
+ PROV_ADJ47:0 
+ PROV_ADJ48:0 
+ PROV_ADJ49:0 
+ PROV_ADJ50:0 
+ PROV_ADJ51:0 
+ PROV_ADJ52:0 
+ PROV_ADJ53:0 
+ PROV_ADJ54:0 
+ PROV_ADJ55:0 
+ PROV_ADJ56:0 
+ PROV_ADJ57:0 
+ PROV_ADJ58:0 
+ PROV_ADJ59:0 
+ PROV_ADJ60:0 
+ PROV_ADJ61:0 
+ PROV_ADJ62:0 
+ PROV_ADJ63:1 
+ PROV_ADJ64:0 
+ PROV_ADJ65:0 
+ PROV_ADJ66:0 
+ PROV_ADJ67:0 
+ PROV_ADJ68:0 
+ PROV_ADJ69:0 
+ PROV_ADJ70:0 
+ PROV_ADJ71:0 
+ PROV_ADJ72:0 
+ PROV_ADJ73:0 
+ PROV_ADJ74:0 
+ PROV_ADJ75:1 
+ PROV_ADJ76:0 
+ PROV_ADJ77:0 
+ PROV_ADJ78:0 
+ PROV_ADJ79:0 
+ PROV_ADJ80:0 
+ PROV_ADJ81:0 
+ PROV_ADJ82:1
+ PROV_ADJ83:0 
+ PROV_ADJ84:0 
+ PROV_ADJ85:0 
+ PROV_ADJ86:0 
+ PROV_ADJ87:0 
+ PROV_ADJ88:0 
+ PROV_ADJ89:0 
+ PROV_ADJ90:0 
+ PROV_ADJ91:0 
+ PROV_ADJ92:0 
+ PROV_ADJ93:0 
+ PROV_ADJ94:0 
+ PROV_ADJ95:0 
+ PROV_ADJ96:0 
+ PROV_ADJ97:1 
+ PROV_ADJ98:0 
+ PROV_ADJ99:0 
  PROV_ADJ100:0 "Frieslander"
  PROV_ADJ101:0 "Genoese"
  PROV_ADJ102:0 "Niçois"
